@@ -21,3 +21,31 @@ webpack compiled successfully
 Compiling...
 Compiled successfully!
 webpack compiled successfully
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/src'
+WARNING in [eslint] 
+src/App.js
+  Line 296:42:  Expected '===' and instead saw '=='  eqeqeq
+  Line 297:37:  Expected '===' and instead saw '=='  eqeqeq
+  Line 300:42:  Expected '===' and instead saw '=='  eqeqeq
+
+ERROR in ./src/supabaseClient.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/src'
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/src'
+WARNING in [eslint] 
+src/App.js
+  Line 296:42:  Expected '===' and instead saw '=='  eqeqeq
+  Line 297:37:  Expected '===' and instead saw '=='  eqeqeq
+  Line 300:42:  Expected '===' and instead saw '=='  eqeqeq
+
+ERROR in ./src/supabaseClient.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/src'
+
+webpack compiled with 1 error and 1 warning
