@@ -49,3 +49,95 @@ ERROR in ./src/supabaseClient.js 3:0-53
 Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/src'
 
 webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/src'
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+WARNING in [eslint] 
+src/App.js
+  Line 296:42:  Expected '===' and instead saw '=='  eqeqeq
+  Line 297:37:  Expected '===' and instead saw '=='  eqeqeq
+  Line 300:42:  Expected '===' and instead saw '=='  eqeqeq
+
+ERROR in ./src/supabaseClient.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/src'
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/auth-js/dist/module/index.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/auth-js/dist/module/index.js.map'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/SupabaseClient.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/SupabaseClient.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/index.ts'
+
+[eslint] 
+src/App.js
+  Line 296:42:  Expected '===' and instead saw '=='  eqeqeq
+  Line 297:37:  Expected '===' and instead saw '=='  eqeqeq
+  Line 300:42:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@supabase/auth-js/dist/module/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/auth-js/dist/module/index.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/auth-js/dist/module/index.js.map'
+
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/SupabaseClient.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/SupabaseClient.ts'
+
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/index.ts'
+
+WARNING in [eslint] 
+src/App.js
+  Line 296:42:  Expected '===' and instead saw '=='  eqeqeq
+  Line 297:37:  Expected '===' and instead saw '=='  eqeqeq
+  Line 300:42:  Expected '===' and instead saw '=='  eqeqeq
+
+webpack compiled with 4 warnings
+Compiling...
+Compiled with warnings.
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/auth-js/dist/module/index.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/auth-js/dist/module/index.js.map'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/SupabaseClient.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/SupabaseClient.ts'
+
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/index.ts'
+
+[eslint] 
+src/App.js
+  Line 296:42:  Expected '===' and instead saw '=='  eqeqeq
+  Line 297:37:  Expected '===' and instead saw '=='  eqeqeq
+  Line 300:42:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/@supabase/auth-js/dist/module/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/auth-js/dist/module/index.js.map' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/auth-js/dist/module/index.js.map'
+
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/SupabaseClient.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/SupabaseClient.ts'
+
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/quizmaster-27987-d5b6373d/quizmaster_web_app/node_modules/@supabase/supabase-js/src/index.ts'
+
+WARNING in [eslint] 
+src/App.js
+  Line 296:42:  Expected '===' and instead saw '=='  eqeqeq
+  Line 297:37:  Expected '===' and instead saw '=='  eqeqeq
+  Line 300:42:  Expected '===' and instead saw '=='  eqeqeq
+
+webpack compiled with 4 warnings
